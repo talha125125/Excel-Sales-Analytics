@@ -4,7 +4,7 @@ Sales Report Overview
 
 Developed a comprehensive Customer Performance Report https://github.com/talha125125/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
-Conducted in-depth analysis comparing Market Performance vs. Sales Targets
+Conducted in-depth analysis comparing Market Performance vs. Sales Targets https://github.com/talha125125/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
 🔍 Purpose of Sales Analytics:
 Enable organizations to track and evaluate sales operations and overall performance.
