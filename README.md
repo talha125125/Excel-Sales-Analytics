@@ -32,7 +32,7 @@ Created Profit & Loss (P&L) reports by:
 • Fiscal Year
 • Month
 
-Developed P&L reports by Market Segmentation
+Developed P&L reports by Market Segmentation https://github.com/talha125125/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
 🔍 Purpose of Financial Analytics:
 Support executive decision-making and communicate financial health to stakeholders.
