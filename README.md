@@ -29,7 +29,7 @@ Finance Report Overview
 🎯 Project Objectives:
 
 Created Profit & Loss (P&L) reports by:
-• Fiscal Year
+• Fiscal Year https://github.com/talha125125/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 • Month
 
 Developed P&L reports by Market Segmentation https://github.com/talha125125/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
