@@ -2,7 +2,7 @@
 Sales Report Overview
 🎯 Project Objectives:
 
-Developed a comprehensive Customer Performance Report
+Developed a comprehensive Customer Performance Report https://github.com/talha125125/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
 Conducted in-depth analysis comparing Market Performance vs. Sales Targets
 
