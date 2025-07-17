@@ -1,45 +1,77 @@
 # Excel-Sales-Analytics
-## Sales Report :
+Sales Report Overview
+🎯 Project Objectives:
 
+Developed a comprehensive Customer Performance Report
 
-- **Project objective:** 
+Conducted in-depth analysis comparing Market Performance vs. Sales Targets
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+🔍 Purpose of Sales Analytics:
+Enable organizations to track and evaluate sales operations and overall performance.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+📊 Importance of Sales Data Analysis:
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+Detect emerging sales trends and patterns
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Monitor key performance indicators (KPIs)
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Provide actionable insights for sales strategy refinement
 
+📈 Role of Reports:
 
-## Finance Report :
+Optimize discount strategies for key customers
 
-- **Project objective:** 
+Support data-driven negotiation with clients
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+Identify high-potential markets for business expansion
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+Finance Report Overview
+🎯 Project Objectives:
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+Created Profit & Loss (P&L) reports by:
+• Fiscal Year
+• Month
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+Developed P&L reports by Market Segmentation
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+🔍 Purpose of Financial Analytics:
+Support executive decision-making and communicate financial health to stakeholders.
 
+📊 Importance of Financial Data Analysis:
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+Benchmark against industry peers and historical data
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+Enable informed budgeting and forecasting
+
+Drive transparency and accountability
+
+📈 Role of Reports:
+
+Align financial goals with strategic planning
+
+Strengthen stakeholder confidence
+
+Guide long-term financial sustainability
+
+Technical Skills
+✅ ETL (Extract, Transform, Load) process proficiency
+
+✅ Power Query: Generated dynamic date tables
+
+✅ Derived fiscal months and quarters
+
+✅ Power Pivot: Built and managed data model relationships
+
+✅ Integrated external data into models
+
+✅ Developed DAX-calculated columns and KPIs
+
+Soft Skills
+✅ Strong grasp of sales and financial reporting concepts
+
+✅ Empathetic, user-centered report design
+
+✅ Efficient and optimized report development
+
+✅ Strategic and structured report planning approach
+
